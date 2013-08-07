@@ -16,7 +16,7 @@ public class CSE100470N {
 
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int ab,as,asaas,ashashasssdsd,sdsdsd,ghghg,ghgyyy;
+        int ab,as,asaas,ashashasssdsd,sdsdsd,ghghg,ghgyyy,dfdfdfd;
 
        while(true){
            System.out.println("Enter your string or press e to exit");
