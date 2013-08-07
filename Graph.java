@@ -13,7 +13,7 @@ import java.util.ListIterator;
 public class Graph {
 
     LinkedList<Node> nodes[]=new LinkedList[28];
-
+    int a;
     public Graph() {
 
          for(int i=0;i<28;i++){
