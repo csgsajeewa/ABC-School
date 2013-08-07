@@ -16,8 +16,9 @@ public class CSE100470N {
 
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        
+        int a;
 
+		
        while(true){
            System.out.println("Enter your string or press e to exit");
             String string = br.readLine();
